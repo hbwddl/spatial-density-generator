@@ -1,6 +1,6 @@
 # Spatial 2D "density" generator
 
-This application is hosted at (hbwaddel.shinyapps.io/GenerateDensity)
+This application is hosted at [hbwaddel.shinyapps.io/GenerateDensity](hbwaddel.shinyapps.io/GenerateDensity)
 
 For some of my movement modeling work, I wanted a quick way to generate a 2d spatial "density" for the purposes of simulations.
 
